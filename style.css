@@ -1,0 +1,21 @@
+h1{
+	font-weight: bold;
+	font-style: italic;
+	color: black;
+	text-align: center;
+	text-shadow: 2px 2px red;
+}
+body{	
+	text-align: center;
+	background-color: pink;	
+	
+}
+#tb{
+	background-color: black;
+}
+a{
+	color: pink;
+}
+#bold{
+	font-weight: bold;
+}
